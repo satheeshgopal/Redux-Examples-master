@@ -1,0 +1,4 @@
+nav.list a {
+    display: list-item;
+    padding-bottom: 10px;
+}
